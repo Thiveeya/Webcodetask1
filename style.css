@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0%;
+
+   }
+   
+
+  #bg {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-top:10%;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    background-color: rgb(52, 10, 63);
+    font-family: Georgia, "Times New Roman", Times, serif;
+    border-radius: 15px;
+  }
+  table {
+    tab-size: 10%;
+    margin-left: 25%;
+    margin-top: 15px;
+  }
+  button {
+    padding: 5px 20px 5px 20px;
+    background-color: green;
+    border-radius: 10px;
+    text-decoration: rgb(177, 156, 73);
+  }
